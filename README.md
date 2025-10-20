@@ -31,7 +31,7 @@ Two models were compared: a **Baseline GAN** and a **Modified GAN** with archite
 - Reinforces that **training duration and model configuration** are critical for GAN performance.
 
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Languages & Frameworks:** Python, TensorFlow / Keras  
 - **Libraries:** NumPy, Matplotlib, Pandas  
 
